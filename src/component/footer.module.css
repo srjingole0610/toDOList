@@ -1,0 +1,15 @@
+.footer{
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 6rem;
+    background-color: #f7ca18;
+    font-weight: 700;
+    font-size: 4rem;
+    padding: 1rem;
+    box-shadow: 2px 4px 6px 8px rgba(0,0,0,0.2);
+}
+.completedItem{
+    margin: 50px;
+}
