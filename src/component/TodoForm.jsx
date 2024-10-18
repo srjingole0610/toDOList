@@ -8,7 +8,7 @@ function TodoForm() {
     return (
         <div>
             <Form todoItem={todoItem} setTodoItem={setTodoItem} />
-            <TodoList todoItem={todoItem} />
+            <TodoList todoItem={todoItem} setTodoItem={setTodoItem} />
         </div>
     );
 }
